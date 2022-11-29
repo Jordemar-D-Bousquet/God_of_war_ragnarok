@@ -3,10 +3,13 @@ var swiper = new Swiper(".slide-characters", {
     spaceBetween: 19,
     freeMode:true,
     breakpoints: {
+      280:{
+        slidesPerView: 1
+      },
       320: {
       slidesPerView: 1.1
      },
-     768: {
+     568: {
       slidesPerView: 2.2
      },
      991: {
