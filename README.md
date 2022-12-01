@@ -19,7 +19,8 @@ Projeto Landing page realizado em conjunto mentor [Willian Moreira](https://gith
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90051803/205131886-62352e7b-c271-43af-af7f-3fd54a5d522d.gif)
 
 
 ## Screenshots
